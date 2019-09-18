@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/desiquinn/webauth-iii#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.19.4",
